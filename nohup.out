@@ -1,0 +1,1525 @@
+Starting the WebSocket server on port 6003...
+New connection opened for app key 44852272fa122b306c00.
+Connection id 764479063.259535439 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"764479063.259535439\",\"activity_timeout\":30}"}
+1237317: connection id 764479063.259535439 received message: {"event":"pusher:subscribe","data":{"auth":"","channel":"my-channel"}}.
+Connection id 764479063.259535439 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 764479063.259535439 sending message {"channel":"my-channel","event":"my-event","data":"{\"message\":{\"key\":\"value\",\"key1\":\"value1\"}}"}
+1237317: connection id 764479063.259535439 received message: {"event":"pusher:ping","data":{}}.
+Connection id 764479063.259535439 sending message {"event":"pusher:pong"}
+Connection id 764479063.259535439 sending message {"channel":"my-channel","event":"my-event","data":"{\"message\":{\"key\":\"value\",\"key1\":\"value1\"}}"}
+Connection id 764479063.259535439 sending message {"channel":"my-channel","event":"my-event","data":"{\"message\":{\"key\":\"value\",\"key1\":\"value1\"}}"}
+Connection id 764479063.259535439 sending message {"channel":"my-channel","event":"my-event","data":"{\"message\":{\"key\":\"value\",\"key1\":\"value1\"}}"}
+1237317: connection id 764479063.259535439 received message: {"event":"pusher:ping","data":{}}.
+Connection id 764479063.259535439 sending message {"event":"pusher:pong"}
+Connection id 764479063.259535439 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 642160879.433515590 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"642160879.433515590\",\"activity_timeout\":30}"}
+1237317: connection id 642160879.433515590 received message: {"event":"pusher:subscribe","data":{"auth":"","channel":"my-channel"}}.
+Connection id 642160879.433515590 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 642160879.433515590 received message: {"event":"pusher:ping","data":{}}.
+Connection id 642160879.433515590 sending message {"event":"pusher:pong"}
+1237317: connection id 642160879.433515590 received message: {"event":"pusher:ping","data":{}}.
+Connection id 642160879.433515590 sending message {"event":"pusher:pong"}
+1237317: connection id 642160879.433515590 received message: {"event":"pusher:ping","data":{}}.
+Connection id 642160879.433515590 sending message {"event":"pusher:pong"}
+Connection id 642160879.433515590 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 15006324.326820458 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"15006324.326820458\",\"activity_timeout\":30}"}
+1237317: connection id 15006324.326820458 received message: {"event":"pusher:subscribe","data":{"auth":"","channel":"my-channel"}}.
+Connection id 15006324.326820458 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 15006324.326820458 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15006324.326820458 sending message {"event":"pusher:pong"}
+Connection id 15006324.326820458 sending message {"channel":"my-channel","event":"my-event","data":"{\"message\":{\"key\":\"value\",\"key1\":\"value1\"}}"}
+Connection id 15006324.326820458 sending message {"channel":"my-channel","event":"my-event","data":"{\"message\":{\"key\":\"value\",\"key1\":\"value1\"}}"}
+Connection id 15006324.326820458 sending message {"channel":"my-channel","event":"my-event","data":"{\"message\":{\"key\":\"value\",\"key1\":\"value1\"}}"}
+Connection id 15006324.326820458 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 782074388.724777454 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"782074388.724777454\",\"activity_timeout\":30}"}
+1237317: connection id 782074388.724777454 received message: {"event":"pusher:subscribe","data":{"auth":"","channel":"my-channel"}}.
+Connection id 782074388.724777454 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 782074388.724777454 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 615984253.716550881 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"615984253.716550881\",\"activity_timeout\":30}"}
+1237317: connection id 615984253.716550881 received message: {"event":"pusher:subscribe","data":{"auth":"","channel":"my-channel"}}.
+Connection id 615984253.716550881 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 615984253.716550881 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 389450150.515356296 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"389450150.515356296\",\"activity_timeout\":30}"}
+1237317: connection id 389450150.515356296 received message: {"event":"pusher:subscribe","data":{"auth":"","channel":"my-channel"}}.
+Connection id 389450150.515356296 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 389450150.515356296 received message: {"event":"pusher:ping","data":{}}.
+Connection id 389450150.515356296 sending message {"event":"pusher:pong"}
+1237317: connection id 389450150.515356296 received message: {"event":"pusher:ping","data":{}}.
+Connection id 389450150.515356296 sending message {"event":"pusher:pong"}
+1237317: connection id 389450150.515356296 received message: {"event":"pusher:ping","data":{}}.
+Connection id 389450150.515356296 sending message {"event":"pusher:pong"}
+1237317: connection id 389450150.515356296 received message: {"event":"pusher:ping","data":{}}.
+Connection id 389450150.515356296 sending message {"event":"pusher:pong"}
+1237317: connection id 389450150.515356296 received message: {"event":"pusher:ping","data":{}}.
+Connection id 389450150.515356296 sending message {"event":"pusher:pong"}
+1237317: connection id 389450150.515356296 received message: {"event":"pusher:ping","data":{}}.
+Connection id 389450150.515356296 sending message {"event":"pusher:pong"}
+1237317: connection id 389450150.515356296 received message: {"event":"pusher:ping","data":{}}.
+Connection id 389450150.515356296 sending message {"event":"pusher:pong"}
+1237317: connection id 389450150.515356296 received message: {"event":"pusher:ping","data":{}}.
+Connection id 389450150.515356296 sending message {"event":"pusher:pong"}
+1237317: connection id 389450150.515356296 received message: {"event":"pusher:ping","data":{}}.
+Connection id 389450150.515356296 sending message {"event":"pusher:pong"}
+Connection id 389450150.515356296 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 338641096.412243454 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"338641096.412243454\",\"activity_timeout\":30}"}
+Connection id 338641096.412243454 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 27407797.128934288 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"27407797.128934288\",\"activity_timeout\":30}"}
+1237317: connection id 27407797.128934288 received message: {"event":"pusher:ping","data":{}}.
+Connection id 27407797.128934288 sending message {"event":"pusher:pong"}
+1237317: connection id 27407797.128934288 received message: {"event":"pusher:ping","data":{}}.
+Connection id 27407797.128934288 sending message {"event":"pusher:pong"}
+1237317: connection id 27407797.128934288 received message: {"event":"pusher:ping","data":{}}.
+Connection id 27407797.128934288 sending message {"event":"pusher:pong"}
+1237317: connection id 27407797.128934288 received message: {"event":"pusher:ping","data":{}}.
+Connection id 27407797.128934288 sending message {"event":"pusher:pong"}
+1237317: connection id 27407797.128934288 received message: {"event":"pusher:ping","data":{}}.
+Connection id 27407797.128934288 sending message {"event":"pusher:pong"}
+1237317: connection id 27407797.128934288 received message: {"event":"pusher:ping","data":{}}.
+Connection id 27407797.128934288 sending message {"event":"pusher:pong"}
+1237317: connection id 27407797.128934288 received message: {"event":"pusher:ping","data":{}}.
+Connection id 27407797.128934288 sending message {"event":"pusher:pong"}
+1237317: connection id 27407797.128934288 received message: {"event":"pusher:ping","data":{}}.
+Connection id 27407797.128934288 sending message {"event":"pusher:pong"}
+1237317: connection id 27407797.128934288 received message: {"event":"pusher:ping","data":{}}.
+Connection id 27407797.128934288 sending message {"event":"pusher:pong"}
+1237317: connection id 27407797.128934288 received message: {"event":"pusher:ping","data":{}}.
+Connection id 27407797.128934288 sending message {"event":"pusher:pong"}
+1237317: connection id 27407797.128934288 received message: {"event":"pusher:ping","data":{}}.
+Connection id 27407797.128934288 sending message {"event":"pusher:pong"}
+1237317: connection id 27407797.128934288 received message: {"event":"pusher:ping","data":{}}.
+Connection id 27407797.128934288 sending message {"event":"pusher:pong"}
+1237317: connection id 27407797.128934288 received message: {"event":"pusher:ping","data":{}}.
+Connection id 27407797.128934288 sending message {"event":"pusher:pong"}
+1237317: connection id 27407797.128934288 received message: {"event":"pusher:ping","data":{}}.
+Connection id 27407797.128934288 sending message {"event":"pusher:pong"}
+Connection id 27407797.128934288 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 120587137.754280383 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"120587137.754280383\",\"activity_timeout\":30}"}
+Connection id 120587137.754280383 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 770048555.789861453 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"770048555.789861453\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 673346774.365912076 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"673346774.365912076\",\"activity_timeout\":30}"}
+1237317: connection id 673346774.365912076 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 673346774.365912076 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 770048555.789861453 received message: {"event":"pusher:ping","data":{}}.
+Connection id 770048555.789861453 sending message {"event":"pusher:pong"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 521425875.693357993 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"521425875.693357993\",\"activity_timeout\":30}"}
+1237317: connection id 521425875.693357993 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 521425875.693357993 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 770048555.789861453 received message: {"event":"pusher:ping","data":{}}.
+Connection id 770048555.789861453 sending message {"event":"pusher:pong"}
+1237317: connection id 770048555.789861453 received message: {"event":"pusher:ping","data":{}}.
+Connection id 770048555.789861453 sending message {"event":"pusher:pong"}
+1237317: connection id 770048555.789861453 received message: {"event":"pusher:ping","data":{}}.
+Connection id 770048555.789861453 sending message {"event":"pusher:pong"}
+Connection id 770048555.789861453 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 849991521.946079385 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"849991521.946079385\",\"activity_timeout\":30}"}
+1237317: connection id 849991521.946079385 received message: {"event":"pusher:ping","data":{}}.
+Connection id 849991521.946079385 sending message {"event":"pusher:pong"}
+1237317: connection id 849991521.946079385 received message: {"event":"pusher:ping","data":{}}.
+Connection id 849991521.946079385 sending message {"event":"pusher:pong"}
+1237317: connection id 849991521.946079385 received message: {"event":"pusher:ping","data":{}}.
+Connection id 849991521.946079385 sending message {"event":"pusher:pong"}
+1237317: connection id 849991521.946079385 received message: {"event":"pusher:ping","data":{}}.
+Connection id 849991521.946079385 sending message {"event":"pusher:pong"}
+1237317: connection id 849991521.946079385 received message: {"event":"pusher:ping","data":{}}.
+Connection id 849991521.946079385 sending message {"event":"pusher:pong"}
+1237317: connection id 849991521.946079385 received message: {"event":"pusher:ping","data":{}}.
+Connection id 849991521.946079385 sending message {"event":"pusher:pong"}
+1237317: connection id 849991521.946079385 received message: {"event":"pusher:ping","data":{}}.
+Connection id 849991521.946079385 sending message {"event":"pusher:pong"}
+1237317: connection id 849991521.946079385 received message: {"event":"pusher:ping","data":{}}.
+Connection id 849991521.946079385 sending message {"event":"pusher:pong"}
+Connection id 849991521.946079385 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 11217546.275427853 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"11217546.275427853\",\"activity_timeout\":30}"}
+1237317: connection id 11217546.275427853 received message: {"event":"pusher:ping","data":{}}.
+Connection id 11217546.275427853 sending message {"event":"pusher:pong"}
+Connection id 11217546.275427853 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 598726988.567096393 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"598726988.567096393\",\"activity_timeout\":30}"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+Connection id 673346774.365912076 closed.
+Connection id 521425875.693357993 closed.
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 876692751.296518545 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"876692751.296518545\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 274907409.701106311 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"274907409.701106311\",\"activity_timeout\":30}"}
+1237317: connection id 274907409.701106311 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 274907409.701106311 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 876692751.296518545 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 876692751.296518545 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+Connection id 274907409.701106311 closed.
+Connection id 876692751.296518545 closed.
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 819704415.275545318 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"819704415.275545318\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 36651902.114740399 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"36651902.114740399\",\"activity_timeout\":30}"}
+1237317: connection id 819704415.275545318 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 819704415.275545318 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 36651902.114740399 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 36651902.114740399 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+Connection id 36651902.114740399 closed.
+Connection id 819704415.275545318 closed.
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 201115961.560238430 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"201115961.560238430\",\"activity_timeout\":30}"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 856368076.856455482 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"856368076.856455482\",\"activity_timeout\":30}"}
+1237317: connection id 856368076.856455482 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 856368076.856455482 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 201115961.560238430 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 201115961.560238430 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+1237317: connection id 598726988.567096393 received message: {"event":"pusher:ping","data":{}}.
+Connection id 598726988.567096393 sending message {"event":"pusher:pong"}
+Connection id 598726988.567096393 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 859647456.657310967 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"859647456.657310967\",\"activity_timeout\":30}"}
+Connection id 859647456.657310967 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 723402118.665081479 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"723402118.665081479\",\"activity_timeout\":30}"}
+Connection id 723402118.665081479 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 404817970.644344801 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"404817970.644344801\",\"activity_timeout\":30}"}
+1237317: connection id 404817970.644344801 received message: {"event":"pusher:ping","data":{}}.
+Connection id 404817970.644344801 sending message {"event":"pusher:pong"}
+1237317: connection id 404817970.644344801 received message: {"event":"pusher:ping","data":{}}.
+Connection id 404817970.644344801 sending message {"event":"pusher:pong"}
+1237317: connection id 404817970.644344801 received message: {"event":"pusher:ping","data":{}}.
+Connection id 404817970.644344801 sending message {"event":"pusher:pong"}
+Connection id 856368076.856455482 closed.
+Connection id 201115961.560238430 closed.
+1237317: connection id 404817970.644344801 received message: {"event":"pusher:ping","data":{}}.
+Connection id 404817970.644344801 sending message {"event":"pusher:pong"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 67058507.297284780 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"67058507.297284780\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 406882414.225723270 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"406882414.225723270\",\"activity_timeout\":30}"}
+1237317: connection id 67058507.297284780 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 67058507.297284780 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 406882414.225723270 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 406882414.225723270 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 404817970.644344801 received message: {"event":"pusher:ping","data":{}}.
+Connection id 404817970.644344801 sending message {"event":"pusher:pong"}
+Connection id 67058507.297284780 closed.
+Connection id 406882414.225723270 closed.
+1237317: connection id 404817970.644344801 received message: {"event":"pusher:ping","data":{}}.
+Connection id 404817970.644344801 sending message {"event":"pusher:pong"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 437049635.562999735 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"437049635.562999735\",\"activity_timeout\":30}"}
+1237317: connection id 437049635.562999735 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 437049635.562999735 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 306451543.82826958 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"306451543.82826958\",\"activity_timeout\":30}"}
+1237317: connection id 306451543.82826958 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 306451543.82826958 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 404817970.644344801 received message: {"event":"pusher:ping","data":{}}.
+Connection id 404817970.644344801 sending message {"event":"pusher:pong"}
+Connection id 306451543.82826958 closed.
+Connection id 437049635.562999735 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 742047691.351502701 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"742047691.351502701\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 807554377.247509363 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"807554377.247509363\",\"activity_timeout\":30}"}
+1237317: connection id 742047691.351502701 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 742047691.351502701 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 807554377.247509363 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 807554377.247509363 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 404817970.644344801 received message: {"event":"pusher:ping","data":{}}.
+Connection id 404817970.644344801 sending message {"event":"pusher:pong"}
+1237317: connection id 404817970.644344801 received message: {"event":"pusher:ping","data":{}}.
+Connection id 404817970.644344801 sending message {"event":"pusher:pong"}
+1237317: connection id 404817970.644344801 received message: {"event":"pusher:ping","data":{}}.
+Connection id 404817970.644344801 sending message {"event":"pusher:pong"}
+1237317: connection id 404817970.644344801 received message: {"event":"pusher:ping","data":{}}.
+Connection id 404817970.644344801 sending message {"event":"pusher:pong"}
+1237317: connection id 404817970.644344801 received message: {"event":"pusher:ping","data":{}}.
+Connection id 404817970.644344801 sending message {"event":"pusher:pong"}
+1237317: connection id 404817970.644344801 received message: {"event":"pusher:ping","data":{}}.
+Connection id 404817970.644344801 sending message {"event":"pusher:pong"}
+1237317: connection id 404817970.644344801 received message: {"event":"pusher:ping","data":{}}.
+Connection id 404817970.644344801 sending message {"event":"pusher:pong"}
+1237317: connection id 404817970.644344801 received message: {"event":"pusher:ping","data":{}}.
+Connection id 404817970.644344801 sending message {"event":"pusher:pong"}
+1237317: connection id 404817970.644344801 received message: {"event":"pusher:ping","data":{}}.
+Connection id 404817970.644344801 sending message {"event":"pusher:pong"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 15630567.650490529 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"15630567.650490529\",\"activity_timeout\":30}"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+Connection id 742047691.351502701 closed.
+Connection id 807554377.247509363 closed.
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 19303603.65803062 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"19303603.65803062\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 946896911.492759952 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"946896911.492759952\",\"activity_timeout\":30}"}
+1237317: connection id 19303603.65803062 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 19303603.65803062 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 946896911.492759952 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 946896911.492759952 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+Connection id 946896911.492759952 closed.
+Connection id 19303603.65803062 closed.
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 266481730.8206921 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"266481730.8206921\",\"activity_timeout\":30}"}
+1237317: connection id 266481730.8206921 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 266481730.8206921 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 67639241.263043322 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"67639241.263043322\",\"activity_timeout\":30}"}
+1237317: connection id 67639241.263043322 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 67639241.263043322 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 738854474.316446111 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"738854474.316446111\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 678788084.551049675 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"678788084.551049675\",\"activity_timeout\":30}"}
+1237317: connection id 738854474.316446111 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 738854474.316446111 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 678788084.551049675 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 678788084.551049675 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+Connection id 678788084.551049675 closed.
+Connection id 738854474.316446111 closed.
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 562397091.429751853 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"562397091.429751853\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 93624340.426831761 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"93624340.426831761\",\"activity_timeout\":30}"}
+1237317: connection id 562397091.429751853 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 562397091.429751853 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 93624340.426831761 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 93624340.426831761 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+Connection id 93624340.426831761 closed.
+Connection id 562397091.429751853 closed.
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 294498948.270095866 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"294498948.270095866\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 825247882.643588767 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"825247882.643588767\",\"activity_timeout\":30}"}
+1237317: connection id 294498948.270095866 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 294498948.270095866 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 825247882.643588767 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 825247882.643588767 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+Connection id 825247882.643588767 closed.
+Connection id 294498948.270095866 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 178323296.425719816 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"178323296.425719816\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 17887727.774199379 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"17887727.774199379\",\"activity_timeout\":30}"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 178323296.425719816 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 178323296.425719816 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 17887727.774199379 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 17887727.774199379 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+Connection id 178323296.425719816 closed.
+Connection id 17887727.774199379 closed.
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 291018990.472448668 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"291018990.472448668\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 655528503.328625570 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"655528503.328625570\",\"activity_timeout\":30}"}
+1237317: connection id 291018990.472448668 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 291018990.472448668 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 655528503.328625570 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 655528503.328625570 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 15630567.650490529 received message: {"event":"pusher:ping","data":{}}.
+Connection id 15630567.650490529 sending message {"event":"pusher:pong"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 219423774.541449848 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"219423774.541449848\",\"activity_timeout\":30}"}
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+Connection id 655528503.328625570 closed.
+Connection id 291018990.472448668 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 416935784.687058783 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"416935784.687058783\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 565360065.305375306 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"565360065.305375306\",\"activity_timeout\":30}"}
+1237317: connection id 416935784.687058783 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 416935784.687058783 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 565360065.305375306 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 565360065.305375306 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+Connection id 416935784.687058783 closed.
+Connection id 565360065.305375306 closed.
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 728771325.558304620 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"728771325.558304620\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 532779117.388224079 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"532779117.388224079\",\"activity_timeout\":30}"}
+1237317: connection id 728771325.558304620 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 728771325.558304620 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 532779117.388224079 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 532779117.388224079 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+Connection id 532779117.388224079 closed.
+Connection id 728771325.558304620 closed.
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 560856041.901767520 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"560856041.901767520\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 470706367.627200821 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"470706367.627200821\",\"activity_timeout\":30}"}
+1237317: connection id 560856041.901767520 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 560856041.901767520 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 470706367.627200821 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 470706367.627200821 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+Connection id 560856041.901767520 closed.
+Connection id 470706367.627200821 closed.
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 307422762.723142229 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"307422762.723142229\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 838464222.184946269 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"838464222.184946269\",\"activity_timeout\":30}"}
+1237317: connection id 307422762.723142229 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 307422762.723142229 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 838464222.184946269 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 838464222.184946269 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 219423774.541449848 received message: {"event":"pusher:ping","data":{}}.
+Connection id 219423774.541449848 sending message {"event":"pusher:pong"}
+Connection id 307422762.723142229 closed.
+Connection id 838464222.184946269 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 18161260.252191619 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"18161260.252191619\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 374914778.104342248 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"374914778.104342248\",\"activity_timeout\":30}"}
+1237317: connection id 374914778.104342248 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 374914778.104342248 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 18161260.252191619 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 18161260.252191619 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 994408021.323038526 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"994408021.323038526\",\"activity_timeout\":30}"}
+1237317: connection id 994408021.323038526 received message: {"event":"pusher:ping","data":{}}.
+Connection id 994408021.323038526 sending message {"event":"pusher:pong"}
+1237317: connection id 994408021.323038526 received message: {"event":"pusher:ping","data":{}}.
+Connection id 994408021.323038526 sending message {"event":"pusher:pong"}
+1237317: connection id 994408021.323038526 received message: {"event":"pusher:ping","data":{}}.
+Connection id 994408021.323038526 sending message {"event":"pusher:pong"}
+Connection id 374914778.104342248 closed.
+Connection id 18161260.252191619 closed.
+1237317: connection id 994408021.323038526 received message: {"event":"pusher:ping","data":{}}.
+Connection id 994408021.323038526 sending message {"event":"pusher:pong"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 509242878.419860748 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"509242878.419860748\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 781398073.187368552 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"781398073.187368552\",\"activity_timeout\":30}"}
+1237317: connection id 509242878.419860748 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 509242878.419860748 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 781398073.187368552 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 781398073.187368552 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 994408021.323038526 received message: {"event":"pusher:ping","data":{}}.
+Connection id 994408021.323038526 sending message {"event":"pusher:pong"}
+Connection id 509242878.419860748 closed.
+Connection id 781398073.187368552 closed.
+1237317: connection id 994408021.323038526 received message: {"event":"pusher:ping","data":{}}.
+Connection id 994408021.323038526 sending message {"event":"pusher:pong"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 351038868.249924566 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"351038868.249924566\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 628760156.241748914 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"628760156.241748914\",\"activity_timeout\":30}"}
+1237317: connection id 351038868.249924566 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 351038868.249924566 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 628760156.241748914 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 628760156.241748914 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 994408021.323038526 received message: {"event":"pusher:ping","data":{}}.
+Connection id 994408021.323038526 sending message {"event":"pusher:pong"}
+Connection id 351038868.249924566 closed.
+Connection id 628760156.241748914 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 72275912.136973943 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"72275912.136973943\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 442141526.389782112 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"442141526.389782112\",\"activity_timeout\":30}"}
+1237317: connection id 72275912.136973943 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 72275912.136973943 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 442141526.389782112 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 442141526.389782112 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 994408021.323038526 received message: {"event":"pusher:ping","data":{}}.
+Connection id 994408021.323038526 sending message {"event":"pusher:pong"}
+1237317: connection id 994408021.323038526 received message: {"event":"pusher:ping","data":{}}.
+Connection id 994408021.323038526 sending message {"event":"pusher:pong"}
+1237317: connection id 994408021.323038526 received message: {"event":"pusher:ping","data":{}}.
+Connection id 994408021.323038526 sending message {"event":"pusher:pong"}
+1237317: connection id 994408021.323038526 received message: {"event":"pusher:ping","data":{}}.
+Connection id 994408021.323038526 sending message {"event":"pusher:pong"}
+1237317: connection id 994408021.323038526 received message: {"event":"pusher:ping","data":{}}.
+Connection id 994408021.323038526 sending message {"event":"pusher:pong"}
+Connection id 72275912.136973943 closed.
+Connection id 442141526.389782112 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 406877852.523546880 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"406877852.523546880\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 240104562.915736695 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"240104562.915736695\",\"activity_timeout\":30}"}
+1237317: connection id 406877852.523546880 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 406877852.523546880 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 240104562.915736695 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 240104562.915736695 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 994408021.323038526 received message: {"event":"pusher:ping","data":{}}.
+Connection id 994408021.323038526 sending message {"event":"pusher:pong"}
+1237317: connection id 994408021.323038526 received message: {"event":"pusher:ping","data":{}}.
+Connection id 994408021.323038526 sending message {"event":"pusher:pong"}
+Connection id 406877852.523546880 closed.
+Connection id 240104562.915736695 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 836089493.348866782 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"836089493.348866782\",\"activity_timeout\":30}"}
+1237317: connection id 836089493.348866782 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 836089493.348866782 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 12385417.823750308 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"12385417.823750308\",\"activity_timeout\":30}"}
+1237317: connection id 12385417.823750308 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 12385417.823750308 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 994408021.323038526 received message: {"event":"pusher:ping","data":{}}.
+Connection id 994408021.323038526 sending message {"event":"pusher:pong"}
+Connection id 994408021.323038526 closed.
+Connection id 836089493.348866782 closed.
+Connection id 12385417.823750308 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 159585243.658978778 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"159585243.658978778\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 2184716.732340852 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"2184716.732340852\",\"activity_timeout\":30}"}
+1237317: connection id 159585243.658978778 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 159585243.658978778 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 2184716.732340852 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 2184716.732340852 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 159585243.658978778 closed.
+Connection id 2184716.732340852 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 352594372.311523544 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"352594372.311523544\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 407812751.87842288 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"407812751.87842288\",\"activity_timeout\":30}"}
+1237317: connection id 407812751.87842288 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 407812751.87842288 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 352594372.311523544 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 352594372.311523544 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 407812751.87842288 closed.
+Connection id 352594372.311523544 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 252179710.802433515 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"252179710.802433515\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 506508537.963879114 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"506508537.963879114\",\"activity_timeout\":30}"}
+1237317: connection id 252179710.802433515 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 252179710.802433515 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 506508537.963879114 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 506508537.963879114 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 506508537.963879114 closed.
+Connection id 252179710.802433515 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 728398990.611884894 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"728398990.611884894\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 609029956.13122773 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"609029956.13122773\",\"activity_timeout\":30}"}
+1237317: connection id 609029956.13122773 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 609029956.13122773 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 728398990.611884894 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 728398990.611884894 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 609029956.13122773 closed.
+Connection id 728398990.611884894 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 39616623.450380560 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"39616623.450380560\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 100470032.901304014 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"100470032.901304014\",\"activity_timeout\":30}"}
+1237317: connection id 100470032.901304014 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 100470032.901304014 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 39616623.450380560 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 39616623.450380560 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 100470032.901304014 closed.
+Connection id 39616623.450380560 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 245767741.177727752 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"245767741.177727752\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 82568671.198862597 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"82568671.198862597\",\"activity_timeout\":30}"}
+1237317: connection id 245767741.177727752 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 245767741.177727752 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 82568671.198862597 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 82568671.198862597 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 245767741.177727752 closed.
+Connection id 82568671.198862597 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 373048176.129299634 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"373048176.129299634\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 670292628.670072659 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"670292628.670072659\",\"activity_timeout\":30}"}
+1237317: connection id 373048176.129299634 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 373048176.129299634 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 670292628.670072659 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 670292628.670072659 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 373048176.129299634 closed.
+Connection id 670292628.670072659 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 505489277.936496065 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"505489277.936496065\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 496782699.940635272 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"496782699.940635272\",\"activity_timeout\":30}"}
+1237317: connection id 496782699.940635272 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 496782699.940635272 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 505489277.936496065 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 505489277.936496065 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 505489277.936496065 closed.
+Connection id 496782699.940635272 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 283397147.264046035 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"283397147.264046035\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 952856185.361768212 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"952856185.361768212\",\"activity_timeout\":30}"}
+1237317: connection id 283397147.264046035 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 283397147.264046035 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 952856185.361768212 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 952856185.361768212 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 952856185.361768212 closed.
+Connection id 283397147.264046035 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 379065479.430473855 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"379065479.430473855\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 592155893.481699539 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"592155893.481699539\",\"activity_timeout\":30}"}
+1237317: connection id 592155893.481699539 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 592155893.481699539 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 379065479.430473855 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 379065479.430473855 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 592155893.481699539 closed.
+Connection id 379065479.430473855 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 538624553.693016570 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"538624553.693016570\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 279885492.238309956 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"279885492.238309956\",\"activity_timeout\":30}"}
+1237317: connection id 279885492.238309956 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 279885492.238309956 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 538624553.693016570 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 538624553.693016570 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 538624553.693016570 closed.
+Connection id 279885492.238309956 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 82179644.171645134 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"82179644.171645134\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 510908517.128158093 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"510908517.128158093\",\"activity_timeout\":30}"}
+1237317: connection id 510908517.128158093 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 510908517.128158093 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 82179644.171645134 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 82179644.171645134 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 967754933.879321779 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"967754933.879321779\",\"activity_timeout\":30}"}
+1237317: connection id 967754933.879321779 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 967754933.879321779 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 536897722.972545999 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"536897722.972545999\",\"activity_timeout\":30}"}
+1237317: connection id 536897722.972545999 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 536897722.972545999 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 967754933.879321779 closed.
+Connection id 536897722.972545999 closed.
+Connection id 510908517.128158093 closed.
+Connection id 82179644.171645134 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 85376475.956892661 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"85376475.956892661\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 489356562.152216775 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"489356562.152216775\",\"activity_timeout\":30}"}
+1237317: connection id 85376475.956892661 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 85376475.956892661 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 489356562.152216775 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 489356562.152216775 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 270922768.622883346 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"270922768.622883346\",\"activity_timeout\":30}"}
+1237317: connection id 270922768.622883346 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 270922768.622883346 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 270922768.622883346 closed.
+Connection id 85376475.956892661 closed.
+Connection id 489356562.152216775 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 484951625.542965141 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"484951625.542965141\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 654558900.896323509 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"654558900.896323509\",\"activity_timeout\":30}"}
+1237317: connection id 654558900.896323509 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 654558900.896323509 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 484951625.542965141 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 484951625.542965141 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 191007364.388417656 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"191007364.388417656\",\"activity_timeout\":30}"}
+1237317: connection id 191007364.388417656 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 191007364.388417656 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 484951625.542965141 closed.
+Connection id 654558900.896323509 closed.
+Connection id 191007364.388417656 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 252538148.79682034 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"252538148.79682034\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 930788996.415960861 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"930788996.415960861\",\"activity_timeout\":30}"}
+1237317: connection id 252538148.79682034 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 252538148.79682034 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 930788996.415960861 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 930788996.415960861 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 302792468.403621574 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"302792468.403621574\",\"activity_timeout\":30}"}
+1237317: connection id 302792468.403621574 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 302792468.403621574 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 302792468.403621574 closed.
+Connection id 930788996.415960861 closed.
+Connection id 252538148.79682034 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 257643113.181313421 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"257643113.181313421\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 308931795.13014694 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"308931795.13014694\",\"activity_timeout\":30}"}
+1237317: connection id 308931795.13014694 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 308931795.13014694 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 257643113.181313421 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 257643113.181313421 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 151159753.957797385 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"151159753.957797385\",\"activity_timeout\":30}"}
+1237317: connection id 151159753.957797385 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 151159753.957797385 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 151159753.957797385 closed.
+Connection id 308931795.13014694 closed.
+Connection id 257643113.181313421 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 211497201.655297732 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"211497201.655297732\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 236959384.592458132 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"236959384.592458132\",\"activity_timeout\":30}"}
+1237317: connection id 236959384.592458132 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 236959384.592458132 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 211497201.655297732 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 211497201.655297732 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 850690097.610544597 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"850690097.610544597\",\"activity_timeout\":30}"}
+1237317: connection id 850690097.610544597 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 850690097.610544597 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 236959384.592458132 closed.
+Connection id 850690097.610544597 closed.
+Connection id 211497201.655297732 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 961414209.974216836 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"961414209.974216836\",\"activity_timeout\":30}"}
+1237317: connection id 961414209.974216836 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 961414209.974216836 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 228780767.298201359 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"228780767.298201359\",\"activity_timeout\":30}"}
+1237317: connection id 228780767.298201359 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 228780767.298201359 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 601997060.734261998 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"601997060.734261998\",\"activity_timeout\":30}"}
+1237317: connection id 601997060.734261998 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 601997060.734261998 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 601997060.734261998 closed.
+Connection id 228780767.298201359 closed.
+Connection id 961414209.974216836 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 801374736.325129983 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"801374736.325129983\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 492013353.888239004 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"492013353.888239004\",\"activity_timeout\":30}"}
+1237317: connection id 801374736.325129983 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 801374736.325129983 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 492013353.888239004 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 492013353.888239004 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 693769284.222310828 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"693769284.222310828\",\"activity_timeout\":30}"}
+1237317: connection id 693769284.222310828 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 693769284.222310828 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 693769284.222310828 closed.
+Connection id 801374736.325129983 closed.
+Connection id 492013353.888239004 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 801666466.453055390 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"801666466.453055390\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 265292575.955805300 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"265292575.955805300\",\"activity_timeout\":30}"}
+1237317: connection id 265292575.955805300 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 265292575.955805300 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 801666466.453055390 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 801666466.453055390 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 702467395.411915988 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"702467395.411915988\",\"activity_timeout\":30}"}
+1237317: connection id 702467395.411915988 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 702467395.411915988 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 265292575.955805300 closed.
+Connection id 801666466.453055390 closed.
+Connection id 702467395.411915988 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 375016485.571506580 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"375016485.571506580\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 83287741.369413331 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"83287741.369413331\",\"activity_timeout\":30}"}
+1237317: connection id 375016485.571506580 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 375016485.571506580 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 83287741.369413331 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 83287741.369413331 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 507056450.292320000 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"507056450.292320000\",\"activity_timeout\":30}"}
+1237317: connection id 507056450.292320000 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 507056450.292320000 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 375016485.571506580 closed.
+Connection id 507056450.292320000 closed.
+Connection id 83287741.369413331 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 709964356.142165974 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"709964356.142165974\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 623693400.510874924 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"623693400.510874924\",\"activity_timeout\":30}"}
+1237317: connection id 623693400.510874924 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 623693400.510874924 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 709964356.142165974 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 709964356.142165974 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 987446421.408133463 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"987446421.408133463\",\"activity_timeout\":30}"}
+1237317: connection id 987446421.408133463 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 987446421.408133463 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 987446421.408133463 closed.
+Connection id 709964356.142165974 closed.
+Connection id 623693400.510874924 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 860619326.722869908 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"860619326.722869908\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 624926979.332897891 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"624926979.332897891\",\"activity_timeout\":30}"}
+1237317: connection id 860619326.722869908 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 860619326.722869908 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 624926979.332897891 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 624926979.332897891 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 2291297.479118125 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"2291297.479118125\",\"activity_timeout\":30}"}
+1237317: connection id 2291297.479118125 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 2291297.479118125 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 860619326.722869908 closed.
+Connection id 624926979.332897891 closed.
+Connection id 2291297.479118125 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 682654830.42842201 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"682654830.42842201\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 702508103.368876363 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"702508103.368876363\",\"activity_timeout\":30}"}
+1237317: connection id 682654830.42842201 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 682654830.42842201 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 702508103.368876363 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 702508103.368876363 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 632964672.881400705 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"632964672.881400705\",\"activity_timeout\":30}"}
+1237317: connection id 632964672.881400705 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 632964672.881400705 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 682654830.42842201 closed.
+Connection id 632964672.881400705 closed.
+Connection id 702508103.368876363 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 333178582.583905185 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"333178582.583905185\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 249784369.390741451 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"249784369.390741451\",\"activity_timeout\":30}"}
+1237317: connection id 333178582.583905185 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 333178582.583905185 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 249784369.390741451 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 249784369.390741451 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 943049261.96617237 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"943049261.96617237\",\"activity_timeout\":30}"}
+1237317: connection id 943049261.96617237 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 943049261.96617237 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 333178582.583905185 closed.
+Connection id 943049261.96617237 closed.
+Connection id 249784369.390741451 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 694206678.169256458 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"694206678.169256458\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 12612085.674960051 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"12612085.674960051\",\"activity_timeout\":30}"}
+1237317: connection id 694206678.169256458 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 694206678.169256458 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 12612085.674960051 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 12612085.674960051 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 798156450.836466840 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"798156450.836466840\",\"activity_timeout\":30}"}
+1237317: connection id 798156450.836466840 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 798156450.836466840 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 798156450.836466840 closed.
+Connection id 694206678.169256458 closed.
+Connection id 12612085.674960051 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 271893629.871095950 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"271893629.871095950\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 95655781.224525110 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"95655781.224525110\",\"activity_timeout\":30}"}
+1237317: connection id 271893629.871095950 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 271893629.871095950 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 95655781.224525110 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 95655781.224525110 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 328285714.815394170 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"328285714.815394170\",\"activity_timeout\":30}"}
+1237317: connection id 328285714.815394170 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 328285714.815394170 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 271893629.871095950 closed.
+Connection id 328285714.815394170 closed.
+Connection id 95655781.224525110 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 289241551.840281841 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"289241551.840281841\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 723170123.924414208 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"723170123.924414208\",\"activity_timeout\":30}"}
+1237317: connection id 289241551.840281841 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 289241551.840281841 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 723170123.924414208 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 723170123.924414208 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 757065848.942526402 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"757065848.942526402\",\"activity_timeout\":30}"}
+1237317: connection id 757065848.942526402 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 757065848.942526402 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 757065848.942526402 closed.
+Connection id 289241551.840281841 closed.
+Connection id 723170123.924414208 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 558227655.438949275 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"558227655.438949275\",\"activity_timeout\":30}"}
+1237317: connection id 558227655.438949275 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 558227655.438949275 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 974511731.742218215 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"974511731.742218215\",\"activity_timeout\":30}"}
+1237317: connection id 974511731.742218215 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 974511731.742218215 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 381839748.759622474 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"381839748.759622474\",\"activity_timeout\":30}"}
+1237317: connection id 381839748.759622474 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 381839748.759622474 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 974511731.742218215 closed.
+Connection id 381839748.759622474 closed.
+Connection id 558227655.438949275 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 930964144.699622522 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"930964144.699622522\",\"activity_timeout\":30}"}
+1237317: connection id 930964144.699622522 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 930964144.699622522 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 266481730.8206921 closed.
+Connection id 930964144.699622522 closed.
+Connection id 67639241.263043322 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 499008875.266761456 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"499008875.266761456\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 159201654.353754613 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"159201654.353754613\",\"activity_timeout\":30}"}
+1237317: connection id 159201654.353754613 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 159201654.353754613 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 499008875.266761456 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 499008875.266761456 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 159201654.353754613 closed.
+Connection id 499008875.266761456 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 992536848.603867153 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"992536848.603867153\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 250331634.53030237 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"250331634.53030237\",\"activity_timeout\":30}"}
+1237317: connection id 250331634.53030237 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 250331634.53030237 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 992536848.603867153 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 992536848.603867153 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 751279344.552457325 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"751279344.552457325\",\"activity_timeout\":30}"}
+1237317: connection id 751279344.552457325 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 751279344.552457325 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 712002508.346954343 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"712002508.346954343\",\"activity_timeout\":30}"}
+1237317: connection id 712002508.346954343 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 712002508.346954343 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 712002508.346954343 closed.
+Connection id 751279344.552457325 closed.
+Connection id 992536848.603867153 closed.
+Connection id 250331634.53030237 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 283662616.944738989 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"283662616.944738989\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 737631442.615111703 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"737631442.615111703\",\"activity_timeout\":30}"}
+1237317: connection id 283662616.944738989 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 283662616.944738989 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 737631442.615111703 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 737631442.615111703 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 332852364.297543823 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"332852364.297543823\",\"activity_timeout\":30}"}
+1237317: connection id 332852364.297543823 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 332852364.297543823 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 332852364.297543823 closed.
+Connection id 737631442.615111703 closed.
+Connection id 283662616.944738989 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 212886860.147033000 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"212886860.147033000\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 625279260.604065600 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"625279260.604065600\",\"activity_timeout\":30}"}
+1237317: connection id 625279260.604065600 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 625279260.604065600 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 212886860.147033000 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 212886860.147033000 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 392354660.978890186 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"392354660.978890186\",\"activity_timeout\":30}"}
+1237317: connection id 392354660.978890186 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 392354660.978890186 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 40659055.252024454 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"40659055.252024454\",\"activity_timeout\":30}"}
+1237317: connection id 40659055.252024454 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 40659055.252024454 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 889553861.13810610 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"889553861.13810610\",\"activity_timeout\":30}"}
+1237317: connection id 889553861.13810610 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 889553861.13810610 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 625279260.604065600 closed.
+Connection id 392354660.978890186 closed.
+Connection id 212886860.147033000 closed.
+Connection id 889553861.13810610 closed.
+Connection id 40659055.252024454 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 975162022.843566526 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"975162022.843566526\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 676901551.468203467 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"676901551.468203467\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 934161001.577268140 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"934161001.577268140\",\"activity_timeout\":30}"}
+1237317: connection id 676901551.468203467 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 676901551.468203467 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 975162022.843566526 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 975162022.843566526 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 934161001.577268140 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 934161001.577268140 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 975162022.843566526 closed.
+Connection id 676901551.468203467 closed.
+Connection id 934161001.577268140 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 612016739.10526670 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"612016739.10526670\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 488450392.637356319 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"488450392.637356319\",\"activity_timeout\":30}"}
+1237317: connection id 488450392.637356319 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 488450392.637356319 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 612016739.10526670 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 612016739.10526670 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 44337003.484348855 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"44337003.484348855\",\"activity_timeout\":30}"}
+1237317: connection id 44337003.484348855 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 44337003.484348855 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 44337003.484348855 closed.
+Connection id 488450392.637356319 closed.
+Connection id 612016739.10526670 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 690052014.967840645 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"690052014.967840645\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 315399998.949573565 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"315399998.949573565\",\"activity_timeout\":30}"}
+1237317: connection id 690052014.967840645 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 690052014.967840645 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 315399998.949573565 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 315399998.949573565 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 27908106.253373883 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"27908106.253373883\",\"activity_timeout\":30}"}
+1237317: connection id 27908106.253373883 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 27908106.253373883 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 690052014.967840645 closed.
+Connection id 27908106.253373883 closed.
+Connection id 315399998.949573565 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 275695433.518320768 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"275695433.518320768\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 979935768.854594717 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"979935768.854594717\",\"activity_timeout\":30}"}
+1237317: connection id 275695433.518320768 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 275695433.518320768 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 979935768.854594717 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 979935768.854594717 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 184774884.843051774 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"184774884.843051774\",\"activity_timeout\":30}"}
+1237317: connection id 184774884.843051774 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 184774884.843051774 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 184774884.843051774 closed.
+Connection id 979935768.854594717 closed.
+Connection id 275695433.518320768 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 796559082.406797886 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"796559082.406797886\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 3855946.638257124 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"3855946.638257124\",\"activity_timeout\":30}"}
+1237317: connection id 796559082.406797886 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 796559082.406797886 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 3855946.638257124 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 3855946.638257124 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 538965745.255744696 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"538965745.255744696\",\"activity_timeout\":30}"}
+1237317: connection id 538965745.255744696 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 538965745.255744696 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 933834866.86336714 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"933834866.86336714\",\"activity_timeout\":30}"}
+1237317: connection id 933834866.86336714 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 933834866.86336714 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 538965745.255744696 closed.
+Connection id 933834866.86336714 closed.
+Connection id 796559082.406797886 closed.
+Connection id 3855946.638257124 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 478192802.944458823 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"478192802.944458823\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 946254811.846908557 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"946254811.846908557\",\"activity_timeout\":30}"}
+1237317: connection id 478192802.944458823 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 478192802.944458823 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 946254811.846908557 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 946254811.846908557 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 478192802.944458823 closed.
+Connection id 946254811.846908557 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 646618152.758481876 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"646618152.758481876\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 215407348.312509475 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"215407348.312509475\",\"activity_timeout\":30}"}
+1237317: connection id 215407348.312509475 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 215407348.312509475 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 646618152.758481876 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 646618152.758481876 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 646618152.758481876 closed.
+Connection id 215407348.312509475 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 594478879.47711194 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"594478879.47711194\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 400330444.100766335 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"400330444.100766335\",\"activity_timeout\":30}"}
+1237317: connection id 594478879.47711194 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 594478879.47711194 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 400330444.100766335 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 400330444.100766335 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 594478879.47711194 closed.
+Connection id 400330444.100766335 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 886886030.564790717 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"886886030.564790717\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 220209336.101653109 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"220209336.101653109\",\"activity_timeout\":30}"}
+1237317: connection id 886886030.564790717 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 886886030.564790717 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 220209336.101653109 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 220209336.101653109 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 886886030.564790717 closed.
+Connection id 220209336.101653109 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 553738825.552789784 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"553738825.552789784\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 40713671.509487476 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"40713671.509487476\",\"activity_timeout\":30}"}
+1237317: connection id 553738825.552789784 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 553738825.552789784 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 40713671.509487476 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 40713671.509487476 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 399253693.446286867 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"399253693.446286867\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 329908876.876276407 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"329908876.876276407\",\"activity_timeout\":30}"}
+1237317: connection id 399253693.446286867 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 399253693.446286867 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 329908876.876276407 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 329908876.876276407 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 329908876.876276407 closed.
+Connection id 399253693.446286867 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 864624219.156757009 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"864624219.156757009\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 263961316.547811584 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"263961316.547811584\",\"activity_timeout\":30}"}
+1237317: connection id 864624219.156757009 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 864624219.156757009 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 263961316.547811584 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 263961316.547811584 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 263961316.547811584 closed.
+Connection id 864624219.156757009 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 766690610.299509120 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"766690610.299509120\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 41289279.449029431 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"41289279.449029431\",\"activity_timeout\":30}"}
+1237317: connection id 41289279.449029431 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 41289279.449029431 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 766690610.299509120 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 766690610.299509120 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 41289279.449029431 closed.
+Connection id 766690610.299509120 closed.
+Connection id 40713671.509487476 closed.
+Connection id 553738825.552789784 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 406647474.492034102 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"406647474.492034102\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 861070040.365772476 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"861070040.365772476\",\"activity_timeout\":30}"}
+1237317: connection id 861070040.365772476 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 861070040.365772476 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 406647474.492034102 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 406647474.492034102 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 473074522.397575873 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"473074522.397575873\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 645398885.737718628 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"645398885.737718628\",\"activity_timeout\":30}"}
+1237317: connection id 473074522.397575873 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 473074522.397575873 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 645398885.737718628 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 645398885.737718628 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 454916778.763399620 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"454916778.763399620\",\"activity_timeout\":30}"}
+1237317: connection id 454916778.763399620 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 454916778.763399620 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 454916778.763399620 closed.
+Connection id 861070040.365772476 closed.
+Connection id 406647474.492034102 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 944918714.860173903 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"944918714.860173903\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 85622531.130575035 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"85622531.130575035\",\"activity_timeout\":30}"}
+1237317: connection id 85622531.130575035 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 85622531.130575035 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 944918714.860173903 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 944918714.860173903 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 327633691.915881209 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"327633691.915881209\",\"activity_timeout\":30}"}
+1237317: connection id 327633691.915881209 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 327633691.915881209 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 944918714.860173903 closed.
+Connection id 327633691.915881209 closed.
+Connection id 85622531.130575035 closed.
+Connection id 473074522.397575873 closed.
+Connection id 645398885.737718628 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 234649159.769834012 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"234649159.769834012\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 429130847.782421191 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"429130847.782421191\",\"activity_timeout\":30}"}
+1237317: connection id 234649159.769834012 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 234649159.769834012 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 429130847.782421191 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 429130847.782421191 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 17298906.892999107 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"17298906.892999107\",\"activity_timeout\":30}"}
+1237317: connection id 17298906.892999107 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 17298906.892999107 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 17298906.892999107 closed.
+Connection id 234649159.769834012 closed.
+Connection id 429130847.782421191 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 870114079.484424070 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"870114079.484424070\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 370661425.244007050 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"370661425.244007050\",\"activity_timeout\":30}"}
+1237317: connection id 870114079.484424070 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 870114079.484424070 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 370661425.244007050 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 370661425.244007050 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 695149771.569194531 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"695149771.569194531\",\"activity_timeout\":30}"}
+1237317: connection id 695149771.569194531 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 695149771.569194531 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 91246908.134244137 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"91246908.134244137\",\"activity_timeout\":30}"}
+1237317: connection id 91246908.134244137 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 91246908.134244137 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 395672150.55730622 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"395672150.55730622\",\"activity_timeout\":30}"}
+1237317: connection id 395672150.55730622 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 395672150.55730622 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 395672150.55730622 closed.
+Connection id 91246908.134244137 closed.
+Connection id 870114079.484424070 closed.
+Connection id 695149771.569194531 closed.
+Connection id 370661425.244007050 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 929219625.864912477 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"929219625.864912477\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 910695407.967229672 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"910695407.967229672\",\"activity_timeout\":30}"}
+1237317: connection id 929219625.864912477 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 929219625.864912477 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 910695407.967229672 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 910695407.967229672 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 534954348.175829563 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"534954348.175829563\",\"activity_timeout\":30}"}
+1237317: connection id 534954348.175829563 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 534954348.175829563 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 534954348.175829563 closed.
+Connection id 929219625.864912477 closed.
+Connection id 910695407.967229672 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 871290438.432468221 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"871290438.432468221\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 402275035.432291825 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"402275035.432291825\",\"activity_timeout\":30}"}
+1237317: connection id 871290438.432468221 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 871290438.432468221 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 402275035.432291825 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 402275035.432291825 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 871290438.432468221 closed.
+Connection id 402275035.432291825 closed.
+New connection opened for app key 44852272fa122b306c00.
+Connection id 851621497.368467900 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"851621497.368467900\",\"activity_timeout\":30}"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 630318022.340293894 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"630318022.340293894\",\"activity_timeout\":30}"}
+1237317: connection id 851621497.368467900 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 851621497.368467900 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+1237317: connection id 630318022.340293894 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 630318022.340293894 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 425464757.908900129 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"425464757.908900129\",\"activity_timeout\":30}"}
+1237317: connection id 425464757.908900129 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 425464757.908900129 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 993224036.792646510 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"993224036.792646510\",\"activity_timeout\":30}"}
+1237317: connection id 993224036.792646510 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 993224036.792646510 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 475600380.120218165 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"475600380.120218165\",\"activity_timeout\":30}"}
+1237317: connection id 475600380.120218165 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 475600380.120218165 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 550240732.203496110 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"550240732.203496110\",\"activity_timeout\":30}"}
+1237317: connection id 550240732.203496110 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 550240732.203496110 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 677957700.983056039 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"677957700.983056039\",\"activity_timeout\":30}"}
+1237317: connection id 677957700.983056039 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 677957700.983056039 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 765855873.49715173 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"765855873.49715173\",\"activity_timeout\":30}"}
+1237317: connection id 765855873.49715173 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 765855873.49715173 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 227376779.1066736 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"227376779.1066736\",\"activity_timeout\":30}"}
+1237317: connection id 227376779.1066736 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 227376779.1066736 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 93767127.151770496 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"93767127.151770496\",\"activity_timeout\":30}"}
+1237317: connection id 93767127.151770496 received message: {"data":{"channel":"my-channel"},"event":"pusher:subscribe"}.
+Connection id 93767127.151770496 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 733117450.988471053 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"733117450.988471053\",\"activity_timeout\":30}"}
+1237317: connection id 733117450.988471053 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 733117450.988471053 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 766707331.534294449 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"766707331.534294449\",\"activity_timeout\":30}"}
+1237317: connection id 766707331.534294449 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 766707331.534294449 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 41900142.419385842 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"41900142.419385842\",\"activity_timeout\":30}"}
+1237317: connection id 41900142.419385842 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 41900142.419385842 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 483800923.395953282 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"483800923.395953282\",\"activity_timeout\":30}"}
+1237317: connection id 483800923.395953282 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 483800923.395953282 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 973255204.217849455 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"973255204.217849455\",\"activity_timeout\":30}"}
+1237317: connection id 973255204.217849455 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 973255204.217849455 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+New connection opened for app key 44852272fa122b306c00.
+Connection id 663650155.777204018 sending message {"event":"pusher:connection_established","data":"{\"socket_id\":\"663650155.777204018\",\"activity_timeout\":30}"}
+1237317: connection id 663650155.777204018 received message: {"event":"pusher:subscribe","data":{"channel":"my-channel"}}.
+Connection id 663650155.777204018 sending message {"event":"pusher_internal:subscription_succeeded","channel":"my-channel"}
+Connection id 93767127.151770496 closed.
+Connection id 425464757.908900129 closed.
+Connection id 475600380.120218165 closed.
+Connection id 733117450.988471053 closed.
+Connection id 41900142.419385842 closed.
+Connection id 973255204.217849455 closed.
+Connection id 993224036.792646510 closed.
+Connection id 765855873.49715173 closed.
+Connection id 766707331.534294449 closed.
+Connection id 663650155.777204018 closed.
+Connection id 630318022.340293894 closed.
+Connection id 677957700.983056039 closed.
+Connection id 227376779.1066736 closed.
+Connection id 483800923.395953282 closed.
+Connection id 550240732.203496110 closed.
+Connection id 851621497.368467900 closed.
